@@ -1,0 +1,9 @@
+[
+    {
+        "title": "NOW or NEVER",
+        "author": "Maria",
+        "year": 2025,
+        "genre": "History",
+        "read": false
+    }
+]
